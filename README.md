@@ -1,5 +1,6 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
-
+##  NAME: SINDHU V
+##  Ref No: 25018071
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
@@ -25,8 +26,14 @@
 **CIRCUIT DIAGRAM:**
 
 
+![WhatsApp Image 2025-10-16 at 15 26 11_ed5b5a27](https://github.com/user-attachments/assets/484847fa-38bf-465d-b8c8-46fa8a1334bb)
+
+![WhatsApp Image 2025-10-16 at 15 26 11_a49a88e2](https://github.com/user-attachments/assets/8de8bb12-e729-410c-9e22-08017844e048)
+
+![WhatsApp Image 2025-10-16 at 15 36 11_38a1e3a0](https://github.com/user-attachments/assets/8de1dd01-4404-4d2c-aba6-87b530013d6d)
 
 
+![WhatsApp Image 2025-10-16 at 15 35 20_456da119](https://github.com/user-attachments/assets/f5230c50-915e-4f21-a8b0-c1dc4c37a980)
 
 
 
